@@ -1,0 +1,2 @@
+name:ram,email:ram@gmail.com,address:kathmandu,phone:98788
+name:sita,email:sita@gmail.com,address:pokhara,phone:879877
